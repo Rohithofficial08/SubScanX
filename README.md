@@ -52,8 +52,7 @@ SubScanX is a powerful Python-based tool for **subdomain enumeration** with a us
 ## Donate
 If you find **SubScanX** useful, consider supporting its development:
 
-- **Buy Me a Coffee**: [Support Here](#)
-- **Bitcoin**: `your-bitcoin-address`
+do follow
 
 Happy Hacking! 🚀
 
